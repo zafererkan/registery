@@ -33,7 +33,7 @@ onSubmit,
   return (  
     
 
-  <div className='d-flex align-items-center justify-content-center col-7'>
+  <div className='d-flex align-items-center justify-content-center col-sm-8'>
     <div className='box col-12 d-flex align-items-center'>
       <div className='left-slider  col-7'>1</div>
         <div className='right-loding  col-5 d-flex align-items-center justify-content-center '>

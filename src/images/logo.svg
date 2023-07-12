@@ -3,59 +3,39 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 180 55" style="enable-background:new 0 0 180 55;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#0171B4;}
-	.st1{fill:url(#SVGID_1_);}
-	.st2{fill:url(#SVGID_2_);}
-	.st3{fill:url(#SVGID_3_);}
-	.st4{fill:url(#SVGID_4_);}
-	.st5{fill:url(#SVGID_5_);}
-	.st6{fill:url(#SVGID_6_);}
-	.st7{fill:url(#SVGID_7_);}
+	.st0{fill:#C4426E;}
+	.st1{fill:#0171B4;}
 </style>
 <g>
-	<path class="st0" d="M0.7,8V1.1h19.4V8h-6.3v38.8H7V8H0.7z"/>
-	<path class="st0" d="M22.7,1.1H38V8h-8.6v12h6.2v7.3h-6.2v12.6H38v6.9H22.7V1.1z"/>
-	<path class="st0" d="M48.5,1.1v16h0.2l0.3-0.7l5.6-15.2h6.5l-6.2,15l7,30.6h-6.5l-4.7-19.9L50.6,26h-0.2L50,26.9l-1.6,3.7v16.2
-		h-6.7V1.1H48.5z"/>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="65.0723" y1="28.1033" x2="179.2023" y2="28.1033">
-		<stop  offset="5.586592e-03" style="stop-color:#0171B4"/>
-		<stop  offset="1" style="stop-color:#A34883"/>
-	</linearGradient>
+	<g>
+		<rect x="83.5" y="9" class="st0" width="6.7" height="38.2"/>
+	</g>
+	<g>
+		<path class="st0" d="M0.7,8V1.1h19.4V8h-6.3v38.8H7.1V8H0.7z"/>
+	</g>
+	<g>
+		<path class="st0" d="M22.7,1.1h15.4V8h-8.6v12h6.2v7.3h-6.2v12.6h8.6v6.9H22.7V1.1z"/>
+	</g>
+	<g>
+		<path class="st0" d="M48.5,1.1v16h0.2l0.3-0.7l5.6-15.2h6.5l-6.2,15l7,30.6h-6.5l-4.7-19.9L50.7,26h-0.2l-0.4,0.9l-1.6,3.7v16.2
+			h-6.7V1.1H48.5z"/>
+	</g>
 	<path class="st1" d="M65.1,1.1h6.7v47.8h107.4v6.2H65.1V1.1z"/>
 	<g>
-		<radialGradient id="SVGID_2_" cx="77.2581" cy="25.6452" r="85.0376" gradientUnits="userSpaceOnUse">
-			<stop  offset="5.586592e-03" style="stop-color:#0171B4"/>
-			<stop  offset="1" style="stop-color:#A34883"/>
-		</radialGradient>
-		<rect x="83.4" y="9" class="st2" width="6.7" height="38.2"/>
-		<radialGradient id="SVGID_3_" cx="77.2581" cy="25.6452" r="85.0376" gradientUnits="userSpaceOnUse">
-			<stop  offset="5.586592e-03" style="stop-color:#0171B4"/>
-			<stop  offset="1" style="stop-color:#A34883"/>
-		</radialGradient>
-		<rect x="83.4" y="0.7" class="st3" width="6.7" height="4.9"/>
-		<radialGradient id="SVGID_4_" cx="77.2581" cy="25.6452" r="85.0376" gradientUnits="userSpaceOnUse">
-			<stop  offset="5.586592e-03" style="stop-color:#0171B4"/>
-			<stop  offset="1" style="stop-color:#A34883"/>
-		</radialGradient>
-		<polygon class="st4" points="98.5,46.8 105.2,46.8 105.2,26.9 111.4,26.9 111.4,20 105.2,20 105.2,8 114.5,8 114.5,1.1 98.5,1.1 
-					"/>
-		<radialGradient id="SVGID_5_" cx="77.2581" cy="25.6452" r="85.0376" gradientUnits="userSpaceOnUse">
-			<stop  offset="5.586592e-03" style="stop-color:#0171B4"/>
-			<stop  offset="1" style="stop-color:#A34883"/>
-		</radialGradient>
-		<polygon class="st5" points="117.9,8 124.2,8 124.2,46.8 131,46.8 131,8 137.3,8 137.3,1.1 117.9,1.1 		"/>
-		<radialGradient id="SVGID_6_" cx="77.2581" cy="25.6452" r="85.0376" gradientUnits="userSpaceOnUse">
-			<stop  offset="5.586592e-03" style="stop-color:#0171B4"/>
-			<stop  offset="1" style="stop-color:#A34883"/>
-		</radialGradient>
-		<polygon class="st6" points="139.9,46.8 155.3,46.8 155.3,39.9 146.6,39.9 146.6,27.3 152.8,27.3 152.8,20 146.6,20 146.6,8 
-			155.3,8 155.3,1.1 139.9,1.1 		"/>
-		<radialGradient id="SVGID_7_" cx="77.2581" cy="25.6452" r="85.0376" gradientUnits="userSpaceOnUse">
-			<stop  offset="5.586592e-03" style="stop-color:#0171B4"/>
-			<stop  offset="1" style="stop-color:#A34883"/>
-		</radialGradient>
-		<polygon class="st7" points="172.2,16.1 178.4,1.1 171.9,1.1 166.3,16.3 166,17.1 165.7,17.1 165.7,1.1 159,1.1 159,46.8 
-			165.7,46.8 165.7,30.6 167.3,26.9 167.6,26 167.8,26 168,26.9 172.7,46.8 179.2,46.8 		"/>
+		<path class="st0" d="M83.5,0.8h6.7v4.9h-6.7V0.8z"/>
+	</g>
+	<g>
+		<path class="st0" d="M114.6,8h-9.3v12h6.2v6.9h-6.2v19.9h-6.7V1.1h16V8z"/>
+	</g>
+	<g>
+		<path class="st0" d="M118,8V1.1h19.4V8H131v38.8h-6.7V8H118z"/>
+	</g>
+	<g>
+		<path class="st0" d="M140,1.1h15.4V8h-8.6v12h6.2v7.3h-6.2v12.6h8.6v6.9H140V1.1z"/>
+	</g>
+	<g>
+		<path class="st0" d="M165.8,1.1v16h0.2l0.3-0.7l5.6-15.2h6.5l-6.2,15l7,30.6h-6.5l-4.7-19.9l-0.2-0.9h-0.2l-0.4,0.9l-1.6,3.7v16.2
+			h-6.7V1.1H165.8z"/>
 	</g>
 </g>
 </svg>

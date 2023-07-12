@@ -1,9 +1,10 @@
 import React from "react";
 import { useFormik } from "formik";
-import { basicSchema, basicShema } from "../schemas";
+import { basicSchema, basicShem} from "../schemas";
 import "bootstrap/dist/css/bootstrap.css";
 import "jquery";
 import { Link } from "react-router-dom";
+
 
 const onSubmit = async (values, actions) => {
   console.log(values);
@@ -14,7 +15,7 @@ const onSubmit = async (values, actions) => {
   actions.resetForm();
 };
 
-export default function Registery() {
+export default function Registery({Registery}) {
   const { values, errors, isSubmitting, handleChange, handleSubmit } =
     useFormik({
       initialValues: {
@@ -27,13 +28,20 @@ export default function Registery() {
       onSubmit,
     });
   // console.log(formik);
+  const handleFormSubmit = (event) =>{
+    event.preventDefault();
+    debugger;
+    Registery('zafer');
+    
+
+  }
 
   return (
     <div className="d-flex align-items-center justify-content-center col-7">
       <div className="box col-12 d-flex align-items-center">
         <div className="left-slider  col-7">1</div>
         <div className="right-loding  col-5 d-flex align-items-center justify-content-center ">
-          <form className="kayit_form col-8 " onSubmit={handleSubmit}>
+          <form className="kayit_form col-8 "  onSubmit={handleFormSubmit}>
             <div className="logo"></div>
             <div className={errors.username ? "input-error" : "input-okey"}>
               <input
